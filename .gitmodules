@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "drcSeedGerm"]
+	path = drcSeedGerm
+	url = https://github.com/onofriandreapg/drcseedgerm
+	shallow = true
+	registered = true
 [submodule "drcte"]
 	path = drcte
 	url = https://github.com/onofriandreapg/drcte
