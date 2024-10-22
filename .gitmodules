@@ -11,3 +11,6 @@
 [submodule "lmDiallel"]
 	path = lmDiallel
 	url = https://github.com/onofriandreapg/lmdiallel
+[submodule "statforbiology"]
+	path = statforbiology
+	url = https://github.com/onofriandreapg/statforbiology
